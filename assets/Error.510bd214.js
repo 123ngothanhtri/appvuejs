@@ -1,1 +1,0 @@
-import{_ as r}from"./index.87bf8778.js";import{o,c as e}from"./vendor.c5a18318.js";const s={},t={class:"display-1 p-5"};function c(a,n,p,_,d,f){return o(),e("p",t,"Error 404 !")}var m=r(s,[["render",c]]);export{m as default};
